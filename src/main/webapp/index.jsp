@@ -137,14 +137,14 @@ function errorPassword() {
 	                            <div class="card-content">
 									<div id="typography">
 										<div class="title">
-											<h2>Typography</h2>
+											<h2>United Unimates</h2>
 										</div>
 										<div class="row">
 										
 										
 										 
 											<div class="tim-typo">
-												<h1><span class="tim-note">Header 1</span>The Life of Material Dashboard </h1>
+												<h1><span class="tim-note">Header 1</span>Check in 1 </h1>
 											</div>
 											<div class="tim-typo">
 												<h2><span class="tim-note">Header 2</span>The life of Material Dashboard </h2>
